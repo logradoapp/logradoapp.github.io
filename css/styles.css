@@ -28,7 +28,7 @@ h1{
 
 @font-face {
 font-family: 'GlacialIndifference-bold';  
-    src: assets/fonts(GlacialIndifference-bold-webfont);
+    src: url(assets/fonts/GlacialIndifference-bold-webfont.woff);
     text-rendering: optimizeLegibility;
 }
 
