@@ -25,9 +25,14 @@ a{
 h1{
     font-size: 3rem;
 }
+
+@font-face {
+
+}
+
 .brand {
 font-family: 'GlacialIndifference-bold';  
-    src: assets/fonts(GlacialIndifference-bold);  
+    src: assets/fonts(GlacialIndifference-bold.woff);  
 letter-spacing: -0.1rem;
 font-size: 2rem;
 padding: 1rem;
