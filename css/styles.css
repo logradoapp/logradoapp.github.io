@@ -32,7 +32,8 @@ h1{
 
 .brand {
 font-family: 'GlacialIndifference-bold';  
-    src: assets/fonts(GlacialIndifference-bold.woff);  
+    src: assets/fonts(GlacialIndifference-bold.woff);
+    text-rendering: optimizeLegibility;
 letter-spacing: -0.1rem;
 font-size: 2rem;
 padding: 1rem;
